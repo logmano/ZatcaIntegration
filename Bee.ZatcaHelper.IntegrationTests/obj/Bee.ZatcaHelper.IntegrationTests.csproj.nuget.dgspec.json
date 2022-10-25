@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lmuknoon\\Desktop\\Bee.ZatcaHelper\\Bee.ZatcaHelper.IntegrationTests\\Bee.ZatcaHelper.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lmuknoon\\Desktop\\Bee.ZatcaHelper\\Bee.ZatcaHelper.IntegrationTests\\Bee.ZatcaHelper.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lmuknoon\\Desktop\\Bee.ZatcaHelper\\Bee.ZatcaHelper.IntegrationTests\\Bee.ZatcaHelper.IntegrationTests.csproj",
+        "projectName": "Bee.ZatcaHelper.IntegrationTests",
+        "projectPath": "C:\\Users\\lmuknoon\\Desktop\\Bee.ZatcaHelper\\Bee.ZatcaHelper.IntegrationTests\\Bee.ZatcaHelper.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\lmuknoon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lmuknoon\\Desktop\\Bee.ZatcaHelper\\Bee.ZatcaHelper.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lmuknoon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lmuknoon\\Desktop\\Bee.ZatcaHelper\\Bee.ZatcaHelper\\Bee.ZatcaHelper.csproj": {
+                "projectPath": "C:\\Users\\lmuknoon\\Desktop\\Bee.ZatcaHelper\\Bee.ZatcaHelper\\Bee.ZatcaHelper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lmuknoon\\Desktop\\Bee.ZatcaHelper\\Bee.ZatcaHelper\\Bee.ZatcaHelper.csproj": {
+      "version": "1.0.3",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lmuknoon\\Desktop\\Bee.ZatcaHelper\\Bee.ZatcaHelper\\Bee.ZatcaHelper.csproj",
+        "projectName": "Bee.ZatcaHelper",
+        "projectPath": "C:\\Users\\lmuknoon\\Desktop\\Bee.ZatcaHelper\\Bee.ZatcaHelper\\Bee.ZatcaHelper.csproj",
+        "packagesPath": "C:\\Users\\lmuknoon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lmuknoon\\Desktop\\Bee.ZatcaHelper\\Bee.ZatcaHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lmuknoon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2-beta2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "System.Security.Cryptography.Xml": {
+              "target": "Package",
+              "version": "[7.0.0-rc.1.22426.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

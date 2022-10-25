@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Bee.ZatcaHelper</id>
+    <version>1.0.3</version>
+    <authors>DevBee</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/fasilmarshooq/Bee.ZatcaHelper</projectUrl>
+    <description>This nuget helps in integertation of systems to Zatca systems.</description>
+    <copyright>MIT</copyright>
+    <tags>Zatca, ZatcaHelper, ZatcaIntegration, Fatoora, Tax</tags>
+    <repository url="https://github.com/fasilmarshooq/Bee.ZatcaHelper" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Newtonsoft.Json" version="13.0.2-beta2" exclude="Build,Analyzers" />
+        <dependency id="Serilog" version="2.12.0" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Cryptography.Xml" version="7.0.0-rc.1.22426.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\bin\Debug\net6.0\Bee.ZatcaHelper.dll" target="lib\net6.0\Bee.ZatcaHelper.dll" />
+    <file src="C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\README.md" target="\README.md" />
+  </files>
+</package>

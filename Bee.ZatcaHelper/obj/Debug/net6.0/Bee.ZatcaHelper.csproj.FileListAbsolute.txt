@@ -1,0 +1,14 @@
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\bin\Debug\net6.0\StandardInvoiceTemplate.xml
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\bin\Debug\net6.0\Util\StandardInvoiceHashingTemplate.xsl
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\bin\Debug\net6.0\Bee.ZatcaHelper.deps.json
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\bin\Debug\net6.0\Bee.ZatcaHelper.dll
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\bin\Debug\net6.0\Bee.ZatcaHelper.pdb
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\obj\Debug\net6.0\Bee.ZatcaHelper.csproj.AssemblyReference.cache
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\obj\Debug\net6.0\Bee.ZatcaHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\obj\Debug\net6.0\Bee.ZatcaHelper.AssemblyInfoInputs.cache
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\obj\Debug\net6.0\Bee.ZatcaHelper.AssemblyInfo.cs
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\obj\Debug\net6.0\Bee.ZatcaHelper.csproj.CoreCompileInputs.cache
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\obj\Debug\net6.0\Bee.ZatcaHelper.dll
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\obj\Debug\net6.0\refint\Bee.ZatcaHelper.dll
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\obj\Debug\net6.0\Bee.ZatcaHelper.pdb
+C:\Users\lmuknoon\Desktop\Bee.ZatcaHelper\Bee.ZatcaHelper\obj\Debug\net6.0\ref\Bee.ZatcaHelper.dll
